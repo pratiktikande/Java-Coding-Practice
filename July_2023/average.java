@@ -1,3 +1,5 @@
+package July_2023;
+
 import java.util.Scanner;
 
 public class average {

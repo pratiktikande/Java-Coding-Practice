@@ -1,4 +1,4 @@
-
+package July_2023;
 public class DataTypes {
     public static void main(String[] args) {
         // Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.

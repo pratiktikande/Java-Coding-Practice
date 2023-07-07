@@ -1,3 +1,4 @@
+package July_2023;
 import java.util.Scanner;
 public class multiplyTable {
     public static void main(String[] args) {
