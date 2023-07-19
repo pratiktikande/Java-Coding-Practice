@@ -14,4 +14,7 @@ class Student{
     Student(){
         //Constructor
     }
+    Student(String name){
+        this.name=name;
+    }
 }

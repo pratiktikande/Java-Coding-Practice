@@ -1,35 +1,41 @@
 package OOPS;
 
-public class OOPS {
-    //Class Name Shoild Be always Start From Capital Later
-    //Function Name Should be in small letter   
-
+public class Oops {
     public static void main(String[] args) {
-        Pen p1=new Pen(); //Object Created
-        //Class name , object name = keyword Class Name();
-
-        p1.setColor("Blue");
-        //call Function
-        System.out.println(p1.color);
+        Pen p1 = new Pen(); // Object Created
+        p1.setColor("Blue"); // Call method
+        System.out.println(p1.getColor());
 
         p1.setTip(5);
-        System.out.println(p1.tip);
+        System.out.println(p1.getTip());
 
-        //or
-        p1.color="Yellow";
-        System.out.println(p1.color);
+        // or
+        p1.setColor("Yellow");
+        System.out.println(p1.getColor());
     }
 }
 
 class Pen {
-    String color;
-    int tip;
+    private String color;
+    private int tip;
 
-    void setColor(String newColor) {
+    // Getter for color
+    public String getColor() {
+        return color;
+    }
+
+    // Setter for color
+    public void setColor(String newColor) {
         color = newColor;
     }
 
-    void setTip(int newTip) {
+    // Getter for tip
+    public int getTip() {
+        return tip;
+    }
+
+    // Setter for tip
+    public void setTip(int newTip) {
         tip = newTip;
     }
 }
@@ -37,10 +43,9 @@ class Pen {
 class Student {
     String name;
     int age;
-    float percenatge;
+    float percentage;
 
     void avgMarks(int phy, int chem, int math) {
-        percenatge = (phy + chem + math) / 3;
+        percentage = (phy + chem + math) / 3;
     }
-
 }

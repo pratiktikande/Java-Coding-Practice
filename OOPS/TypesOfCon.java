@@ -2,25 +2,24 @@ package OOPS;
 
 public class TypesOfCon {
     public static void main(String[] args) {
-        Student s1 = new Student();
-        Student s2 = new Student("Pratik");
-        Student s3 = new Student(12);
+        Students s1 = new Students();
+        Students s2 = new Students("Pratik");
 
     }
 }
 
-class Student {
+class Students {
+    String name;
+    int roll;
 
-    Student() {
+    Students() {
         System.out.println("Default Or NON para Cons");
 
     }
 
-    Student(String name) {
+    Students(String name) {
+        this.name = name;
         System.out.println("Parameterized Constructor");
     }
 
-    Student(int Roll) {
-        System.out.println("para Meterized Constructor");
-    }
 }
