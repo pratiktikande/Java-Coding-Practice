@@ -2,20 +2,21 @@ package OOPS;
 
 public class ShallowAndDeepCopy {
     public static void main(String[] args) {
-        Studentt s1= new Studentt();
-        s1.name="pratik";
-        s1.roll=12;
-        s1.password="vhsdhc";
-        s1.marks[0]=100;
-        s1.marks[1]=90;
-        s1.marks[2]=80;
+        Studentt s1 = new Studentt();
+        s1.name = "pratik";
+        s1.roll = 12;
+        s1.password = "vhsdhc";
+        s1.marks[0] = 100;
+        s1.marks[1] = 90;
+        s1.marks[2] = 80;
 
         Studentt s2 = new Studentt(s1);
-        s2.password="xyc";
-        s1.marks[2]=100;
-        for(int i=0;  i<3; i++){
+        s2.password = "xyc";
+        s1.marks[2] = 100;
+        for (int i = 0; i < 3; i++) {
             System.out.println(s2.marks[i]);
-        }    }
+        }
+    }
 
 }
 
@@ -46,6 +47,6 @@ class Studentt {
 
     Studentt() {
         marks = new int[3];
-        System.out.println("COnstructor is called");
+        System.out.println("Constructor is called");
     }
 }
