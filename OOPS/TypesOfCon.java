@@ -4,10 +4,11 @@ public class TypesOfCon {
     public static void main(String[] args) {
         Students s1 = new Students();
         Students s2 = new Students("Pratik");
+        System.out.println(s1);
+        System.out.println(s2);
 
     }
 }
-
 class Students {
     String name;
     int roll;
