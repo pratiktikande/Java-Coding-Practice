@@ -2,7 +2,7 @@ package July_2023;
 
 import java.util.Scanner;
 
-public class average {
+public class Average {
     public static void main(String[] args) {
         //Write a Java program that takes three numbers as input to calculate and print the average of the numbers
         Scanner sc = new Scanner(System.in);
