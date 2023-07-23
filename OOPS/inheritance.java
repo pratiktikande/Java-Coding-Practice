@@ -1,6 +1,6 @@
 package OOPS;
 
-public class inheritance {
+public class Inheritance {
     public static void main(String[] args) {
         // Create Object Of Derived class
         Fish luna = new Fish();
