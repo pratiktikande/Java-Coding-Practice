@@ -1,6 +1,6 @@
 package July_2023;
 
-public class fibonaci {
+public class Fibonaci {
     public static void main(String[] args) {
         int n = 4; // Specify the value of N here
         long sum = getSumOfFibonacciEvenIndexes(n);

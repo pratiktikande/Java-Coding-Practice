@@ -2,7 +2,7 @@ package July_2023;
 
 import java.util.Scanner;
 
-public class userinputproduct {
+public class Userinputproduct {
     public static void main(String[] args) {
         //Write a Java program that takes two numbers as input and displays the product of two numbers
 

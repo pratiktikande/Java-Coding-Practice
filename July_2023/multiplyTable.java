@@ -1,6 +1,6 @@
 package July_2023;
 import java.util.Scanner;
-public class multiplyTable {
+public class MultiplyTable {
     public static void main(String[] args) {
         // Write a Java program that takes a number as input and prints its
         // multiplication table up to 10

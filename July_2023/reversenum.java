@@ -1,6 +1,6 @@
 package July_2023;
 
-public class reversenum   
+public class Reversenum   
 {  
 public static void main(String[] args)   
 {  

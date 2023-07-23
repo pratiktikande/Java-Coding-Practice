@@ -2,7 +2,7 @@ package July_2023;
     // java program to check whether input
 // character is a vowel or consonant
 
-public class vowel {
+public class Vowel {
 
 	// Function to find whether an input
 	// character is vowel or not

@@ -2,7 +2,7 @@ package July_2023;
 
 import java.util.Scanner;
 
-public class functionnew {
+public class Functionnew {
     public static void sum(int a, int b) {
         System.out.println(a + b);
 

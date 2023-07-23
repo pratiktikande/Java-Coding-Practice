@@ -1,6 +1,6 @@
 package July_2023;
 
-public class operatorsinall {
+public class Operatorsinall {
     public static void main(String[] args) {
         int a = 10;
         int b = 3;

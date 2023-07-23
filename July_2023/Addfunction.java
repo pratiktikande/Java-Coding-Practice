@@ -1,6 +1,6 @@
 package July_2023;
 
-public class addfuction {
+public class Addfunction {
 
     //Function Created
     public static void sum(int a,int b){

@@ -2,7 +2,7 @@ package July_2023;
 
 import java.util.Scanner;
 
-public class password {
+public class Password {
     public static void main(String[] args) {
         // Write a Java program to input and display your password.
         System.out.println("Enter Your Password");

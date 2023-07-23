@@ -1,7 +1,7 @@
 package July_2023;
 
 // Java code to demonstrate right star triangle
-public class trangle {
+public class Trangle {
 	// Function to demonstrate printing pattern
 	public static void StarRightTriangle(int n)
 	{
