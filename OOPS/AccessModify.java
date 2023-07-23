@@ -19,6 +19,7 @@ public class AccessModify {
 class BankAccount {
     public String username;
     private String Password;
+    String pwd=Password;
 
     // To set Password we have to create function inside the class
     public void setpassword(String Pwd) {

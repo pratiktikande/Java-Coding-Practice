@@ -19,7 +19,7 @@ class Stu {
     String name;
     int roll;
 
-    static String schoolName;
+    String schoolName;
 
     void setName(String name) {
         this.name = name;
