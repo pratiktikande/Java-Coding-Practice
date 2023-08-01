@@ -4,9 +4,12 @@ public class LastOccuranceArray {
     //WAF TO find last Occurence Of An Element In An Array
     
     public static int LastKeyFound(int arr[], int key, int i){
+        //Base Case
         if(i ==arr.length){
             return -1;
         }
+
+        //Recursion Function
        int isFound=  LastKeyFound(arr, key, i+1);
        if(isFound == -1 && arr[i] == key){
         return i;
