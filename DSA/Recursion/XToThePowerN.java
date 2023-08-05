@@ -2,14 +2,14 @@ package DSA.Recursion;
 
 public class XToThePowerN {
     
-    public static int Power(int x , int n){
+    public static int power(int x , int n){
         // Base Case
         if(n == 0){
             return 1;
         }
 
         //Recursion function
-        int xnm1 = Power(x, n-1);
+        int xnm1 = power(x, n-1);
         int xn = x * xnm1;
         return xn;
 
@@ -18,6 +18,6 @@ public class XToThePowerN {
     }
 
     public static void main(String[] args) {
-        System.out.println(Power(2, 10));
+        System.out.println(power(2, 10));
     }
 }

@@ -2,7 +2,7 @@ package DSA.Recursion;
 
 public class IncreasingNumber {
 
-    public static void IncreseDec(int n){
+    public static void increseDec(int n){
         //Base Case
         if (n==10){
             System.out.println(n);
@@ -12,11 +12,11 @@ public class IncreasingNumber {
 
         //Recursion Function
         System.out.print(n + " ");
-        IncreseDec(n+1);
+        increseDec(n+1);
 
     }
     public static void main(String[] args) {
         int n=1;
-        IncreseDec(n);
+        increseDec(n);
     }
 }
