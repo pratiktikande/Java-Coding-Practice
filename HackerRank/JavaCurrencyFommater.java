@@ -21,3 +21,4 @@ public class JavaCurrencyFommater {
         System.out.println("France: " + fr.format(payment));
     }
     }
+    
