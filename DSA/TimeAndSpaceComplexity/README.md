@@ -20,11 +20,11 @@ And then we divide it by the total number of inputs.
 
  
 # Selection Sort:
-Best Time Complexity (Ω): O(n^2)
-Average Time Complexity (θ): O(n^2)
-Worst Time Complexity (O): O(n^2)
-Space Complexity: O(1)
-Explanation: Selection Sort has quadratic time complexity in all cases due to the need for multiple passes through the array. It swaps elements to arrange them in order. It doesn't require additional memory except for a few variables, resulting in constant space complexity.
+- Best Time Complexity (Ω): O(n^2)
+- Average Time Complexity (θ): O(n^2)
+- Worst Time Complexity (O): O(n^2)
+- Space Complexity: O(1)
+- Explanation: Selection Sort has quadratic time complexity in all cases due to the need for multiple passes through the array. It swaps elements to arrange them in order. It doesn't require additional memory except for a few variables, resulting in constant space complexity.
 
 
 # Bubble Sort:
