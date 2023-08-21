@@ -7,9 +7,8 @@ import java.util.regex.PatternSyntaxException;
 public class PatternSyntaxChecker {
     public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
-        //print test cases
         int n = sc.nextInt();
-        System.out.println(n);
+        sc.nextLine();
 
         //check Test cases
         for(int i=0; i<n; i++){
@@ -22,7 +21,7 @@ public class PatternSyntaxChecker {
             }
         }
         sc.close();
-
-
     }
 }
+
+
