@@ -25,6 +25,8 @@ public class ConvertaNumbertoHexadecimal {
         System.out.println(converter.toHex(-1));  // Output: "ffffffff"
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande
 
 
 

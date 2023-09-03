@@ -31,3 +31,6 @@ public class PalindromeNumber {
         System.out.println(solution.isPalindrome(num3)); // Output: false
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -29,3 +29,5 @@ class King implements ChessPlayer{
         System.out.println("up , down , left, right,diagonal by 1 step");
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

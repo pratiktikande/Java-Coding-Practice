@@ -74,3 +74,7 @@ public class NqueenPrintOneSolution {
        }
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

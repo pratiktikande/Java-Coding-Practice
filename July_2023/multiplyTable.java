@@ -12,3 +12,6 @@ public class MultiplyTable {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

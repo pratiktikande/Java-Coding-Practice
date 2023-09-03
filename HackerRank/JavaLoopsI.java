@@ -25,3 +25,6 @@ public class JavaLoopsI {
         sc.close();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

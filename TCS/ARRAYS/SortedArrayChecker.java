@@ -21,3 +21,6 @@ public class SortedArrayChecker {
         System.out.println("Is the array sorted (Iterative)? " + sorted);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

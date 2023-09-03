@@ -28,3 +28,6 @@ public class PrimeNumbers {
         System.out.println(num2 + " is prime: " + isPrime(num2));  // Output: false
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -12,3 +12,5 @@ public class JavaStringReverse {
         System.out.println(str.equals(reversed) ? "Yes" : "No");
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

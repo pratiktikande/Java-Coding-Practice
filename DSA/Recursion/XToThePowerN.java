@@ -21,3 +21,6 @@ public class XToThePowerN {
         System.out.println(power(2, 10));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

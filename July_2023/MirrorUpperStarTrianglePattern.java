@@ -24,3 +24,6 @@ public class MirrorUpperStarTrianglePattern {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

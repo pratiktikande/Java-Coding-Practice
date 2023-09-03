@@ -23,3 +23,6 @@ public class Duplicate {
         removeDuplicate(str, 0, new StringBuilder(" "), new  boolean[26]);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

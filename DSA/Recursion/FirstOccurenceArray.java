@@ -18,3 +18,6 @@ public class FirstOccurenceArray {
         System.out.println(keyfound(arr, 7, 0));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

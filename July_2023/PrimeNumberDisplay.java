@@ -29,3 +29,6 @@ public class PrimeNumberDisplay {
         return true;
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

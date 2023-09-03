@@ -32,4 +32,6 @@ public class SquareStarPattern {
     }
 }
 
+//www.github.com/pratiktikande
+//@Pratik Tikande
 

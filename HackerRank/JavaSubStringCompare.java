@@ -21,3 +21,5 @@ public class JavaSubStringCompare {
         System.out.println(getSmallestAndLargest(str, k));
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

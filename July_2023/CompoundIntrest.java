@@ -21,3 +21,6 @@ public class CompoundIntrest {
         System.out.println("Compound Interest is " + CI);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

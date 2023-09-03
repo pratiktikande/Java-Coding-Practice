@@ -34,3 +34,5 @@ class SimpleInterest {
         CalculateInt(P,R,T);
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

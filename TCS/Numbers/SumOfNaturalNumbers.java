@@ -24,3 +24,6 @@ class SumOfNaturalNumbers {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

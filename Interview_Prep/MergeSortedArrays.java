@@ -46,3 +46,6 @@ public class MergeSortedArrays {
         System.out.println("Merged array: " + Arrays.toString(mergedArray));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

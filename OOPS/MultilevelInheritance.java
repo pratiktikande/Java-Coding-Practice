@@ -34,3 +34,6 @@ class Mamal extends Animals{
 class Dog extends Mamal{
     String Bread;
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -52,3 +52,6 @@ package TCS.Numbers;
 //         System.out.println("Distinct ways: " + solution.climbStairs(n));
 //     }
 // }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

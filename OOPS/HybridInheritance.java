@@ -81,3 +81,5 @@ class Human extends Mamal1{
         System.out.println("Running");
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

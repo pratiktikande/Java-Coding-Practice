@@ -20,3 +20,6 @@ public class IncreasingNumber {
         increseDec(n);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

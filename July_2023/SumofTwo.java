@@ -14,3 +14,6 @@ public class SumofTwo {
         System.out.println("  sum of  " + a + "& "+b + "  is  " + (a+b) );
     } 
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

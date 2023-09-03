@@ -23,3 +23,6 @@ public class XToThePowerNOptimized {
         System.out.println(optimizedPower(x, n));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

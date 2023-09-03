@@ -13,3 +13,6 @@ public class JavaSubstring {
         System.out.println(str.substring(start, end));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

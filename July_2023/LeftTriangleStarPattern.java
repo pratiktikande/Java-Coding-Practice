@@ -28,3 +28,6 @@ public class LeftTriangleStarPattern {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

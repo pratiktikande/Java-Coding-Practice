@@ -27,3 +27,5 @@ public class MaxSubArray {
     }
 }
 
+//www.github.com/pratiktikande
+//@Pratik Tikande

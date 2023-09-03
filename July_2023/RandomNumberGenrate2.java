@@ -13,3 +13,5 @@ public class RandomNumberGenrate2 {
         System.out.println("Random Double: " + randomDouble);
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

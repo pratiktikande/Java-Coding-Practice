@@ -15,3 +15,6 @@ public class Userinputfunction {
         sc.close();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

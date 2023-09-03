@@ -16,3 +16,6 @@ public class SumOfNaturalNum {
          return sn;
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

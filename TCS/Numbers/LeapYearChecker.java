@@ -15,3 +15,6 @@ public class LeapYearChecker {
         return (year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

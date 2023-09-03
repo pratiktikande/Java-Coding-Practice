@@ -21,3 +21,6 @@ public class SortedArrayCheckerRecursive {
         System.out.println("Is the array sorted (Recursive)? " + sorted);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

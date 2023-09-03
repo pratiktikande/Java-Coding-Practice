@@ -30,3 +30,5 @@ public class Trangle {
 		StarRightTriangle(k);
 	}
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

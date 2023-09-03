@@ -24,3 +24,5 @@ public class ValidPerfectSquare {
         return false;
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

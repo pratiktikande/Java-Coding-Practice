@@ -32,3 +32,6 @@ public class NumberGuessingGame {
         scanner.close();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

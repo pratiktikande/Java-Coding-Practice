@@ -38,3 +38,6 @@ class Test {
 		printDivisors(100);
 	}
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

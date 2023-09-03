@@ -28,3 +28,6 @@ class Beer implements NonMeatAnimal, MeatAnimal {
       System.out.println("Non Veg Animal");
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -21,3 +21,6 @@ public class SubstringCount {
         System.out.println("Occurrences: " + occurrences); // Output: 3
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

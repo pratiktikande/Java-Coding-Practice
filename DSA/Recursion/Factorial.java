@@ -15,3 +15,6 @@ public class Factorial {
         System.out.println(factCal(n));
         }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

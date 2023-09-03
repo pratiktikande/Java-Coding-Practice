@@ -67,3 +67,7 @@ public class NqueenCountWays {
         System.out.println("Total Ways To Solve N Queen =" + count);
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

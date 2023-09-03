@@ -33,3 +33,6 @@ public class ArmstrongNumber {
         return sum == originalNumber;
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

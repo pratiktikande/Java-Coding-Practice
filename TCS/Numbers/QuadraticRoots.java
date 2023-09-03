@@ -39,3 +39,5 @@ public class QuadraticRoots {
         scanner.close();
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

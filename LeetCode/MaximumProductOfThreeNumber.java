@@ -16,3 +16,6 @@ public class MaximumProductOfThreeNumber {
         return Math.max(option1, option2);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

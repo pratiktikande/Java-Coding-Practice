@@ -28,3 +28,6 @@ public class ArrayBackTracking {
         printArr(arr);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -18,3 +18,5 @@ public class ConsoleInputExample {
         scanner.close(); // Don't forget to close the scanner when you're done.
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

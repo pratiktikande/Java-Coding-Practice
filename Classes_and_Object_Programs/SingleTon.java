@@ -34,3 +34,7 @@ public class SingleTon {
         System.out.println("Are the instances the same? " + (instance1 == instance2));
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

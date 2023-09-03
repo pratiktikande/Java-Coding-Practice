@@ -9,3 +9,7 @@ public class StringToLongExample1 {
         System.out.println("Converted long value: " + convertedLong);
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

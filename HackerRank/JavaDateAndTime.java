@@ -20,3 +20,6 @@ public static void main(String[] args) {
     System.out.println(getDay(day, month, year));
 }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

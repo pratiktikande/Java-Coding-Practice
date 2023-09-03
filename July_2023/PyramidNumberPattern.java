@@ -34,3 +34,6 @@ public class PyramidNumberPattern {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

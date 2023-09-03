@@ -16,3 +16,5 @@ public class AddTwoNumbers {
         System.out.println("The digital root of " + num + " is: " + result);
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

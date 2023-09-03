@@ -53,3 +53,6 @@ public class DiamondStarPattern {
     }
 }
 
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

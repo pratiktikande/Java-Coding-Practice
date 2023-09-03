@@ -31,3 +31,6 @@ public class ValidPalindrome {
         System.out.println(str3 + " is a valid palindrome: " + isPalindrome(str3));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

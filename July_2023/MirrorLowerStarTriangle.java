@@ -17,3 +17,6 @@ public class MirrorLowerStarTriangle {
         printMirrorLowerStarTriangle(n);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

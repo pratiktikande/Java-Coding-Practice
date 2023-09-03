@@ -53,3 +53,6 @@ public class SpiralPatternOfNumbers {
     }
 }
 
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -19,3 +19,6 @@ int num = 5;
 System.out.println("Factorial of "+ num + " is " + factorial(5));
 }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

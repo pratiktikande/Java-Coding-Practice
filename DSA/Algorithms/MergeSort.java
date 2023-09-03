@@ -59,3 +59,7 @@ public class MergeSort {
         printArr(arr);
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

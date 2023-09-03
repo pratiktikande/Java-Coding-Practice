@@ -29,3 +29,6 @@ public class DecimalToBinary {
         return binaryBuilder.toString();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

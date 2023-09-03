@@ -21,3 +21,6 @@ public class MaximumProductOfThreeNumber {
         System.out.println("Maximum Product of Three Numbers: " + result);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

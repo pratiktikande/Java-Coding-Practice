@@ -15,3 +15,6 @@ public class SumOfArrayElements {
         System.out.println("Sum of array elements: " + result);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

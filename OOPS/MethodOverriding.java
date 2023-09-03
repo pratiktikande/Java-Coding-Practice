@@ -23,3 +23,6 @@ class Deer extends Animal2{
         System.out.println("Eat Grass Only");
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

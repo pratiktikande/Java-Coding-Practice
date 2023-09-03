@@ -13,3 +13,6 @@ public class Password {
         sc.close();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

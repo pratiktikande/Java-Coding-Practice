@@ -46,3 +46,6 @@ public class HexToDecimalConverter {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

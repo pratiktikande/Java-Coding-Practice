@@ -34,3 +34,6 @@ public class CircularPermutations {
         Calculate(num);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

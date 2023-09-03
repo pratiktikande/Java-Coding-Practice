@@ -23,3 +23,6 @@ class PrimeOrNot {
     }
 }
 
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

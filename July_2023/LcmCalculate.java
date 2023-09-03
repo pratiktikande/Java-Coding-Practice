@@ -19,3 +19,6 @@ public class LcmCalculate {
         return lcm;
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

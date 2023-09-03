@@ -39,3 +39,7 @@ public class NqueenPossibleWays {
         nQueen(board, 0);
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

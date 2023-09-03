@@ -24,3 +24,6 @@ class Calculate {
         return a + b + c;
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

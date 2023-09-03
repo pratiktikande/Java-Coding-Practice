@@ -24,3 +24,6 @@ public class ClimbSrairs {
         System.out.println("Distinct ways: " + solution.climbStairs(n));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -15,3 +15,6 @@ public class RandomNumberGenerator {
         System.out.println("Random Double: " + randomDouble);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

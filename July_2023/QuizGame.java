@@ -44,3 +44,6 @@ public class QuizGame {
         scanner.close();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

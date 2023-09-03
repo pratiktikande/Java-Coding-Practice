@@ -26,3 +26,5 @@ public class SwapNumbers {
         System.out.println("After swapping using XOR bitwise operation: a = " + a + ", b = " + b);
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

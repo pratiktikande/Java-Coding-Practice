@@ -14,3 +14,6 @@ public class HardestPatternEver {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

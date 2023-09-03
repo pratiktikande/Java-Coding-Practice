@@ -44,3 +44,6 @@ class Bird extends Animals{
         System.out.println("Flying");
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

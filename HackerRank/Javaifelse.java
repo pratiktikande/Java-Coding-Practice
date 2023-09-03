@@ -23,3 +23,6 @@ public class Javaifelse {
         sc.close();
     }
     }
+    
+//www.github.com/pratiktikande
+//@Pratik Tikande

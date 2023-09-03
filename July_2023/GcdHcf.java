@@ -31,3 +31,5 @@ public class GcdHcf {
         return gcd;
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

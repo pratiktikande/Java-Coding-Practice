@@ -26,3 +26,6 @@ public class HappyNumber {
       return ans;
   }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -49,3 +49,5 @@ class Student {
         percentage = (phy + chem + math) / 3;
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

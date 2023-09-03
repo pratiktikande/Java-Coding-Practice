@@ -31,3 +31,5 @@ class Chicken extends Animal3{
         System.out.println("Walk On 2 Legs");
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

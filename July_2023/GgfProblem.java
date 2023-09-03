@@ -63,3 +63,6 @@ public class GgfProblem {
         System.out.println("Smallest positive missing number: " + missingNumber);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

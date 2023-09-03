@@ -29,3 +29,6 @@ public class StarPascalsTriangle {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

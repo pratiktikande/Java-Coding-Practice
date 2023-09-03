@@ -20,3 +20,6 @@ public class ReverseANumber {
         sc.close();
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

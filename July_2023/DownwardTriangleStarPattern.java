@@ -20,3 +20,6 @@ public class DownwardTriangleStarPattern {
     }
 }
 
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

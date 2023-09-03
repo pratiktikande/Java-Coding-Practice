@@ -10,3 +10,5 @@ public class Test {
       System.out.println(((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5)));
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

@@ -30,3 +30,5 @@ public class Fibonaci {
         return sum;
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

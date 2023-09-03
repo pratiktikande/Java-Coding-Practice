@@ -26,3 +26,6 @@ public class RemoveDuplicates {
         System.out.println("Modified array: " + Arrays.toString(Arrays.copyOfRange(nums, 0, newLength)));
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

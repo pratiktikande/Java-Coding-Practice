@@ -44,3 +44,6 @@ public class RotatedSortedArray {
         System.out.println(targetIndex);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

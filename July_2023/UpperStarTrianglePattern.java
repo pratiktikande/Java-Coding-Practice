@@ -24,3 +24,6 @@ public class UpperStarTrianglePattern {
         }
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

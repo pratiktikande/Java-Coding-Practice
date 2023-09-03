@@ -51,3 +51,7 @@ public class QuickSort {
         printArr(arr);
     }
 }
+
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

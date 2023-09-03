@@ -39,3 +39,6 @@ public class PerfectNumber {
         return sum == num; // Check if the sum of divisors equals the number itself.
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

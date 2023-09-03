@@ -16,8 +16,8 @@ public class JavaStaticInitializerBlock {
         int height =sc.nextInt();
         sc.close();
         Para(base, height);
-        
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    }   
 }
-    
-}
+
+//www.github.com/pratiktikande
+//@Pratik Tikande
