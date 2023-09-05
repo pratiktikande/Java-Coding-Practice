@@ -19,3 +19,6 @@ class PascalTriangle {
         return res;
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande

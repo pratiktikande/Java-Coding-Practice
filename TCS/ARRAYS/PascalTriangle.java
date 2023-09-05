@@ -34,3 +34,5 @@ public class PascalTriangle {
         }
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande
