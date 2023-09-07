@@ -22,3 +22,5 @@ class Solution {
         return nums[n - 1];
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande

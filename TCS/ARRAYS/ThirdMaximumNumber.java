@@ -30,3 +30,5 @@ public class ThirdMaximumNumber {
         System.out.println("Third Maximum Number: " + thirdMax);
     }
 }
+//www.github.com/pratiktikande
+//@Pratik Tikande
