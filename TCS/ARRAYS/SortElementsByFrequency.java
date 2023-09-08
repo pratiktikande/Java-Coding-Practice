@@ -24,21 +24,10 @@ public class SortElementsByFrequency {
             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
         }
 
-        // Step 2: Create a custom Comparator to sort elements by frequency
-        Comparator<Integer> customComparator = (num1, num2) -> {
-            int freq1 = frequencyMap.get(num1);
-            int freq2 = frequencyMap.get(num2);
-
-            if (freq1 == freq2) {
-                // If frequencies are the same, sort by the original order
-                return Integer.compare(num1, num2);
-            }
-
-            // Sort by frequency in descending order
-            return Integer.compare(freq2, freq1);
-        };
-
         // Step 3: Sort the elements using the custom Comparator
         Arrays.sort(arr);
     }
 }
+
+//www.github.com/pratiktikande
+//@Pratik Tikande
