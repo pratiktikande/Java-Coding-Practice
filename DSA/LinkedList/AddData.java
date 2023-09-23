@@ -11,7 +11,6 @@ public class AddData {
             this.next = null;
         }
     }
-
     public static Node head;
     public static Node tail;
 
