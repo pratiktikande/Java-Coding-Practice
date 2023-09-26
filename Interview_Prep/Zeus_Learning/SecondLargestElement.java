@@ -19,6 +19,7 @@ public class SecondLargestElement {
             return Integer.MIN_VALUE;
         }
 
+        // Initialize to lowest possible value
         int firstMax = Integer.MIN_VALUE;
         int secondMax = Integer.MIN_VALUE;
 
@@ -30,7 +31,6 @@ public class SecondLargestElement {
                 secondMax = arr[i];
             }
         }
-
         return secondMax;
     }
 }
