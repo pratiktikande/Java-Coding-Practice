@@ -4,7 +4,7 @@ public class SecondAndNthMax {
     public static int findSecondMax(int[] arr) {
         if (arr.length < 2) {
             System.out.println("Array should have at least two elements");
-            return -1; // Return a suitable value or throw an exception as per your requirement
+            return -1;
         }
 
         int firstMax = Integer.MIN_VALUE;
@@ -21,7 +21,7 @@ public class SecondAndNthMax {
 
         if (secondMax == Integer.MIN_VALUE) {
             System.out.println("No second maximum found");
-            return -1; // Return a suitable value or throw an exception as per your requirement
+            return -1;
         } else {
             return secondMax;
         }
@@ -41,8 +41,7 @@ public class SecondAndNthMax {
                     max = num;
                 }
             }
-
-            // Remove the current max element from the array
+            
             for (int j = 0; j < arr.length; j++) {
                 if (arr[j] == max) {
                     arr[j] = Integer.MIN_VALUE;
