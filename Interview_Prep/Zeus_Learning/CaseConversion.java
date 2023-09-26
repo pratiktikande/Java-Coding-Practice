@@ -3,7 +3,6 @@ package Interview_Prep.Zeus_Learning;
 public class CaseConversion {
     public static void main(String[] args) {
         String input = "Hello, World!";
-
         String uppercaseResult = convertToUppercase(input);
         String lowercaseResult = convertToLowercase(input);
 
