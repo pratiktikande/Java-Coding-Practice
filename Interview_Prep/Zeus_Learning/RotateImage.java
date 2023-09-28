@@ -2,6 +2,8 @@ package Interview_Prep.Zeus_Learning;
 
 import java.util.Arrays;
 
+//You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+
 public class RotateImage {
     public static void rotate(int[][] matrix) {
         int n = matrix.length;
