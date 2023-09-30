@@ -1,6 +1,6 @@
 package TCS.Strings;
 
-public class removeCharacters {
+public class RemoveCharacters {
     public static String removeCharacterss(String string1, String string2) {
         // Create a boolean array to mark characters in string2
         boolean[] mark = new boolean[26];
