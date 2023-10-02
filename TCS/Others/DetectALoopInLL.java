@@ -1,7 +1,5 @@
 package TCS.Others;
 
-import java.util.LinkedList;
-
 public class DetectALoopInLL {
     public static class Node {
         int data;
